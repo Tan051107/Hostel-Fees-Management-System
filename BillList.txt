@@ -1,0 +1,19 @@
+StudentName,StudentID,PaymentTitle,TotalBill,DueDate,PaymentStatus,PaymentDate
+Crayon Sin Chan,TP12039,2025 January Hostel Fees,1050,2025-1-3,Completed,2024-12-16
+Jasmine,TP075372,2025 May Hostel Fees,1000,2025-5-7,Completed,2024-12-15
+Jasmine,TP075372,2025 June Hostel Fees,1050,2025-6-7,Completed,2024-12-16
+Jasmine,TP075372,2025 February Hostel Fees,950,2025-2-8,Completed,2024-12-15
+Sandy,TP123456,2025 July Hostel Fees,1200,2025-7-10,Completed,2025-01-12
+Sandy,TP123456,2025 December Hostel Fees,1000,2025-12-5,Completed,2024-12-16
+Crayon Sin Chan,TP12039,2025 April Hostel Fees,950,2025-4-9,Completed,2024-12-15
+Crayon Sin Chan,TP12039,2025 May Hostel Fees,1000,2025-5-1,Outstanding,-
+Jasmine,TP075372,2025 April Hostel Fees,1000,2025-4-1,Outstanding,-
+Crayon Sin Chan,TP12039,2025 August Hostel Fees,1000,2025-8-1,Outstanding,-
+Crayon Sin Chan,TP12039,2025 September Hostel Fees,1000,2025-9-1,Outstanding,-
+Crayon Sin Chan,TP12039,2025 October Hostel Fees,1000,2025-10-1,Outstanding,-
+Crayon Sin Chan,TP12039,2025 June Hostel Fees,1000,2025-6-1,Outstanding,-
+Crayon Sin Chan,TP12039,2025 October Hostel Fees,1000,2025-10-6,Completed,2025-01-12
+Crayon Sin Chan,TP12039,2025 September Hostel Fees,1080,2025-9-1,Outstanding,-
+Crayon Sin Chan,TP12039,2025 April Hostel Fees,1000,2025-4-1,Outstanding,-
+Jasmine,TP075372,2025 March Hostel Fees,1200,2025-3-1,Completed,2025-01-12
+Jasmine,TP075372,May,700,2025-7-29,Completed,2025-02-13

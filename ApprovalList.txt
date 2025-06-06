@@ -1,0 +1,19 @@
+Name,UserID,Identity,Password,BirthDate,Email,PhoneNumber,Approval
+Benjamin,TP075376,Resident,ben123455,2024-1-1,ben@gmail.com,0108280697,Approved
+Hayden,TP075374,Manager,ben123455,2024-5-8,cindy@gmail.com,0186669422,Approved
+Jamie Hung,TP075375,Staff,ben123455,2024-4-16,jamie@hotmail.com,01092874728,Approved
+Jasmine,TP075372,Resident,ben123455,2024-1-1,ben@gmail.com,0108280697,Approved
+Tiffany,TP075371,Resident,ben123455,2004-7-7,tifafany@gmail.com,0108280699,Approved
+Crayon Sin Chan,TP12039,Resident,ben123455,1980-6-8,chan@gmail.com,01123456789,Approved
+Clark,TP123450,Assistant Manager,ben123455,2007-5-1,clark@gmail.com,0143039742,Approved
+Abu,TP075456,Assistant Manager,ben123455,1979-1-1,Abu@gmail.com,0109382728,Rejected
+vun jin quannn,TP071234,Resident,vun12345,2005-7-1,vun123@gmail.com,0102938381,Approved
+Timothy,TP075123,Assistant Manager,tim12345,2005-12-5,tim123@gmail.com,0193828391,Approved
+Chee Kin,TP129381,Assistant Manager,ck12345,2024-1-1,ck123@gmail.com,0108372819,Not Approved
+christ,TP345890,Assistant Manager,christ12345,2024-1-1,christ123@gmail.com,0129381234,Approved
+Harry,TP987123,Assistant Manager,harry12345,2024-1-1,harry123@gmail.com,0109381728,Approved
+Hon Kit,TP098746,Staff,ben123455,2024-5-7,honkit@gmail.com,1234567,Approved
+Sylvester Ng Jun hong,TP076143,Assistant Manager,ben123455,2024-1-1,sylvester@gmail.com,1023456789,Approved
+timothy,TP089354,Staff,ben123455,2024-5-28,timothy@gmail.com,0123456789,Not Approved
+test2,TP098567,Assistant Manager,ben123455,2024-1-1,test1@gmail.com,0123456789,Approved
+honkitresident,TP097564,Resident,ben12345,2024-11-24,honkit@gmail.com,0123456789,Not Approved

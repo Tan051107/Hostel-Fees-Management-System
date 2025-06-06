@@ -1,1 +1,6 @@
-./JavaGUItest
+*.class
+build/
+out/
+.idea/
+build/classes/**/images/
+out/production/**/images/

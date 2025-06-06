@@ -1,0 +1,4 @@
+RoomID,Roomtype,Price
+R001,Single Room,500
+R002,Double Room,700
+R003,Triple Room,800

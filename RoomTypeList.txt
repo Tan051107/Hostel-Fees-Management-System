@@ -1,0 +1,21 @@
+StudentID,RoomType
+TP12039,Single Room
+TP075372,Single Room
+TP12095,Double Room
+TP12345,Single Room
+TP123456,Triple Room
+TP075321,Double Room
+TP075456,Double Room
+Tp076143,Single Room
+TP071234,Single Room
+TP075123,Single Room
+TP129381,Single Room
+TP345890,Single Room
+TP987123,Single Room
+TP098746,Single Room
+TP097563,Single Room
+TP076143,Single Room
+TP076143,Single Room
+TP089354,Single Room
+TP098567,Single Room
+TP097564,Single Room
